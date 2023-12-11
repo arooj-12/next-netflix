@@ -31,7 +31,7 @@ Welcome to the Letflix repository! Letflix is a streaming service application, a
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/TaurusVB/letflix-wp
+git clone https://github.com/arooj-12/next-netflix.git
 ```
 
 ### Install packages
